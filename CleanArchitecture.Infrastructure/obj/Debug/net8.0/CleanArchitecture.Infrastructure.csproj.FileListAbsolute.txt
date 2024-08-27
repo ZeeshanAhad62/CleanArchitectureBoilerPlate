@@ -1,0 +1,17 @@
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.deps.json
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArc.38F44B56.Up2Date
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Infrastructure\obj\Debug\net8.0\refint\CleanArchitecture.Infrastructure.dll
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Infrastructure\obj\Debug\net8.0\ref\CleanArchitecture.Infrastructure.dll
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.runtimeconfig.json
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.genruntimeconfig.cache

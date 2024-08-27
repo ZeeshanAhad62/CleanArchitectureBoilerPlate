@@ -1,0 +1,15 @@
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Application.deps.json
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Application.dll
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.AssemblyInfo.cs
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Application\obj\Debug\net8.0\CleanArc.03AFA812.Up2Date
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.dll
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Application\obj\Debug\net8.0\refint\CleanArchitecture.Application.dll
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.pdb
+C:\Arkitektz-Projects\CleanArchitectureTesting\CleanArchitecture.API\CleanArchitecture.Application\obj\Debug\net8.0\ref\CleanArchitecture.Application.dll
